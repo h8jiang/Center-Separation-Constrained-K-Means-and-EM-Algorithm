@@ -6,4 +6,6 @@ Center Separation Constrained K Means and EM Algorithm
 This repository consists of the Optimal Center Separation Constrained K-Means Algorithm and the Center Separation Constrained EM Algorithm in dimension 1.
 
 This site was built using [GitHub Pages](https://pages.github.com/)
-For a demo file on , please visit [Constrained K Means](https://www.google.com/)
+For a demo file on , please visit [Constrained K Means]https://github.com/h8jiang/Center-Separation-Constrained-K-Means-and-EM-Algorithm/blob/master/cons_kmeans_intro.html                        
+
+https://www.google.com/
