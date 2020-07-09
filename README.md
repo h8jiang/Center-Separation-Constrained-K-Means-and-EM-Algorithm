@@ -9,4 +9,4 @@ For a introduction file on constrained K-means with examples, please see [Constr
 
 For a introduction file on constrained EM in Gaussian mixture models with examples, please see [Constrained EM]https://htmlpreview.github.io/?https://github.com/h8jiang/Center-Separation-Constrained-K-Means-and-EM-Algorithm/blob/master/cons_em_intro.html
 
-For the experiment file, please see CA_V7_GH_experiments .R file.
+For the experiment file, please see CA_V7_GH_experiments .R 
